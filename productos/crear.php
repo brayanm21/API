@@ -8,7 +8,7 @@ $objetoProductoPHP  = json_decode($jsonProducto,true);
 
 $Titulo = $objetoProductoPHP["Titulo"];
 $Descripcion = $objetoProductoPHP["Descripcion"];
-$Precio = $objetoProductoPHP["Precio"];
+$Precio = $objetoProductoPHP["Precio"];git
 $Descuento = $objetoProductoPHP["Descuento"];
 $Diasdescuento = $objetoProductoPHP["Diasdescuento"];
 
